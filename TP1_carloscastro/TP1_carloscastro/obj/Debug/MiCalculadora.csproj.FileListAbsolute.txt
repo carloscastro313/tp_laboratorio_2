@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\bin\Debug\TP1_carloscastro.exe.config
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\bin\Debug\TP1_carloscastro.exe
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\bin\Debug\TP1_carloscastro.pdb
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\TP1_carloscastro.Form1.resources
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\TP1_carloscastro.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\TP1_carloscastro.exe
+C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\TP1_carloscastro\obj\Debug\TP1_carloscastro.pdb

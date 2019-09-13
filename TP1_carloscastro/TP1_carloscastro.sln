@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1_carloscastro", "TP1_carloscastro\TP1_carloscastro.csproj", "{0B52B56E-D8AF-41B5-88B1-30DE44840A85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormCalculadora", "TP1_carloscastro\FormCalculadora.csproj", "{0B52B56E-D8AF-41B5-88B1-30DE44840A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculardora", "Calculardora\Calculardora.csproj", "{6D9AB050-85A3-4D63-A6C1-7A55719E6476}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numero", "Numero\Numero.csproj", "{005D3EBE-BE8A-4EFA-A80F-526F6C839833}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Numero\Entidades.csproj", "{005D3EBE-BE8A-4EFA-A80F-526F6C839833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{0B52B56E-D8AF-41B5-88B1-30DE44840A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B52B56E-D8AF-41B5-88B1-30DE44840A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B52B56E-D8AF-41B5-88B1-30DE44840A85}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D9AB050-85A3-4D63-A6C1-7A55719E6476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D9AB050-85A3-4D63-A6C1-7A55719E6476}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D9AB050-85A3-4D63-A6C1-7A55719E6476}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D9AB050-85A3-4D63-A6C1-7A55719E6476}.Release|Any CPU.Build.0 = Release|Any CPU
 		{005D3EBE-BE8A-4EFA-A80F-526F6C839833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{005D3EBE-BE8A-4EFA-A80F-526F6C839833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{005D3EBE-BE8A-4EFA-A80F-526F6C839833}.Release|Any CPU.ActiveCfg = Release|Any CPU
