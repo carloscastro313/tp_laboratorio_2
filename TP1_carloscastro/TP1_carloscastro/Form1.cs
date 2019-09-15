@@ -18,18 +18,13 @@ namespace TP1_carloscastro
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
 
-            
-            this.cmbOperador.Items.Add("+");
-            this.cmbOperador.Items.Add("-");
-            this.cmbOperador.Items.Add("*");
-            this.cmbOperador.Items.Add("-");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            lblResultado.Text = operar(this.txtNumero2.Text, this.txtNumero1.Text, this.cmbOperador.Text).ToString();  
+            lblResultado.Text = operar(this.txtNumero1.Text, this.txtNumero2.Text, this.cmbOperador.Text).ToString();  
             
         }
 
@@ -44,11 +39,12 @@ namespace TP1_carloscastro
             this.txtNumero1.Clear();
             this.cmbOperador.Text="";
             lblResultado.Text = "";
+            flag = true;
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if(lblResultado.Text == "")
+            if(verificarResultadoExistente(lblResultado.Text))
             {
                 lblResultado.Text = "Valor Invalido";
             }
@@ -62,7 +58,7 @@ namespace TP1_carloscastro
 
         private void button4_Click(object sender, EventArgs e)
         {
-            if (lblResultado.Text == "")
+            if (verificarResultadoExistente(lblResultado.Text))
             {
                 lblResultado.Text = "Valor Invalido";
             }
@@ -76,9 +72,24 @@ namespace TP1_carloscastro
         {
             Numero n1 = new Numero(numero1);
             Numero n2 = new Numero(numero2);
+            flag = true;
 
             return Calculadora.Operar(n1, n2, operando);
 
+        }
+
+        private bool verificarResultadoExistente(string resultado)
+        {
+            bool verificacion = true;
+            double aux;
+
+            if(double.TryParse(resultado, out aux))
+            {
+                verificacion = false;
+
+            }
+
+            return verificacion;
         }
 
     }

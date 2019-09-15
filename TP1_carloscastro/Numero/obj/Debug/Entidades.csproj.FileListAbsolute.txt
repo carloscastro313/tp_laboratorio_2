@@ -4,3 +4,15 @@ C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\Nume
 C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\Numero\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\Numero\obj\Debug\Numero.dll
 C:\Users\Usuario\Desktop\TP1_CarlosCastro\tp_laboratorio_2\TP1_carloscastro\Numero\obj\Debug\Numero.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\bin\Debug\Numero.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\bin\Debug\Numero.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Numero.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Numero.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\bin\Debug\Numero.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\bin\Debug\Numero.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Numero.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1_carloscastro\Numero\obj\Debug\Numero.pdb

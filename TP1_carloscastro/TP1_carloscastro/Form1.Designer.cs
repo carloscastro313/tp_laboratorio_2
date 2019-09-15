@@ -60,6 +60,11 @@
             // cmbOperador
             // 
             this.cmbOperador.FormattingEnabled = true;
+            this.cmbOperador.Items.AddRange(new object[] {
+            "+",
+            "-",
+            "*",
+            "/"});
             this.cmbOperador.Location = new System.Drawing.Point(149, 43);
             this.cmbOperador.Name = "cmbOperador";
             this.cmbOperador.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -118,11 +123,12 @@
             // 
             // lblResultado
             // 
-            this.lblResultado.AutoSize = true;
+            this.lblResultado.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(365, 9);
+            this.lblResultado.Location = new System.Drawing.Point(12, 9);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(0, 24);
+            this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.lblResultado.Size = new System.Drawing.Size(353, 24);
             this.lblResultado.TabIndex = 8;
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -141,7 +147,7 @@
             this.Controls.Add(this.txtNumero1);
             this.Controls.Add(this.txtNumero2);
             this.Name = "Form1";
-            this.Text = "Calculadora de Carlos Castro Del curso 2°A";
+            this.Text = "Calculadora de Carlos Castro del curso 2°A";
             this.ResumeLayout(false);
             this.PerformLayout();
 

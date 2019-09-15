@@ -26,7 +26,10 @@ namespace Entidades
                     resultado = n1 * n2;
                     break;
                 case "/":
-                    resultado = n1 + n2;          
+                    resultado = n1 / n2;          
+                    break;
+                default:
+                    resultado = n1 + n2;
                     break;
             }
 

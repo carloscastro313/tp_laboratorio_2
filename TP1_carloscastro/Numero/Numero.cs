@@ -43,17 +43,17 @@ namespace Entidades
 
         public static double operator +(Numero n1,Numero n2)
         {
-            return n1.numero + n2.numero;
+            return (double)(n1.numero + n2.numero);
         }
 
         public static double operator -(Numero n1, Numero n2)
         {
-            return n1.numero - n2.numero;
+            return (double)(n1.numero - n2.numero);
         }
 
         public static double operator *(Numero n1, Numero n2)
         {
-            return n1.numero * n2.numero;
+            return (double)(n1.numero * n2.numero);
         }
 
         public static double operator /(Numero n1, Numero n2)
@@ -63,7 +63,7 @@ namespace Entidades
                 return double.MinValue;
             }else
             {
-                return n1.numero / n2.numero;
+                return (double)(n1.numero / n2.numero);
             }
             
         }
@@ -94,14 +94,14 @@ namespace Entidades
         {
             double aux;
 
-            if(double.TryParse(numero,out aux))
+            if(!(double.TryParse(numero,out aux)))
             {
 
-                return DecimalBinario(double.Parse(numero));
+                return "Valor Invalido";
             }
             else
             {
-                return "Valor Invalido";
+                return DecimalBinario(double.Parse(numero));             
             }                    
         }
 
@@ -109,8 +109,16 @@ namespace Entidades
         {
             string binario="";
             string aux;
-            UInt32 suma =(UInt32)numero;
-            if(suma>0)
+            UInt32 suma;
+
+            if (numero<0)
+            {
+                numero = numero * (-1);
+            }
+
+            suma = (UInt32)numero;
+
+            if (suma>0)
             {
                 while(suma >= 2)
                 {
