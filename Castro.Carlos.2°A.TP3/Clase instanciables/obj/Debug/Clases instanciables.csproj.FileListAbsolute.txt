@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\obj\Debug\Clases instanciables.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\obj\Debug\Clases instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\obj\Debug\Clases instanciables.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\obj\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Clase instanciables\obj\Debug\Clase instanciables.pdb

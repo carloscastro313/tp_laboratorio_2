@@ -1,0 +1,56 @@
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
