@@ -1,0 +1,452 @@
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELegislacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Hernandez, MiguelNACIONALIDAD: Extranjero
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Legislacion
+
+Smith, RodrigoNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Legislacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Suarez, JoaquinNACIONALIDAD: Extranjero
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Suarez, JoaquinNACIONALIDAD: Extranjero
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Juarez, RobertoNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Juarez, RobertoNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, JuanNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Juarez, RobertoNACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, JuanNACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, CarlosNACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, Juan
+NACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, Carlos
+NACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+
+ALUMNOS: 
+Lopez, Juan
+NACIONALIDAD: Argentino
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, Carlos
+NACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELegislacionPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+
+ALUMNOS: 
+Hernandez, Miguel
+NACIONALIDAD: Extranjero
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Legislacion
+
+Smith, Rodrigo
+NACIONALIDAD: Argentino
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Legislacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Juarez, Roberto
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 2
+CLASES DEL DIA: 
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Programacion
+
+ALUMNOS: 
+Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELegislacionPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Legislacion
+Legislacion
+
+ALUMNOS: 
+Hernandez, Miguel
+NACIONALIDAD: Extranjero
+LEGAJO: 4
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Legislacion
+
+Smith, Rodrigo
+NACIONALIDAD: Argentino
+LEGAJO: 8
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Legislacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DEProgramacionPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Programacion
+Programacion
+
+ALUMNOS: 
+Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Juarez, Roberto
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 2
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Juarez, Roberto
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 2
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+SPD
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DELaboratorioPROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Legislacion
+Laboratorio
+
+ALUMNOS: 
+Suarez, Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO: 7
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Laboratorio
+
+<-------------------------------------------> 
+
+JORNADA: 
+CLASE DE Programacion PROFESOR: Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO NUMERO : 1
+CLASES DEL DIA: 
+Programacion
+Legislacion
+
+ALUMNOS: 
+Lopez, Juan
+NACIONALIDAD: Argentino
+LEGAJO: 1
+ESTADO DE CUENTA: Becado
+CLASES DEL DIA: Programacion
+
+Gonzalez, Carlos
+NACIONALIDAD: Argentino
+LEGAJO: 5
+ESTADO DE CUENTA: AlDia
+CLASES DEL DIA: Programacion
+
+<-------------------------------------------> 
+

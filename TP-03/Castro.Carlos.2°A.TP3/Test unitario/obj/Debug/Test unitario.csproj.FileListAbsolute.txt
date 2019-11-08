@@ -1,0 +1,50 @@
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Test unitario.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Test unitario.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Test unitario.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Test unitario.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.csproj.CopyComplete
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Test unitario\obj\Debug\Test unitario.pdb
