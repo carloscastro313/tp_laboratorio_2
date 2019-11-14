@@ -1,0 +1,80 @@
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.exe
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Usuario\Desktop\Nueva carpeta (2)\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Usuario\Desktop\tp_laboratorio_2\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Clase instanciables.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Main\obj\Debug\Main.csproj.CopyComplete

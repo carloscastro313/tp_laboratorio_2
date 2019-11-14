@@ -1,0 +1,29 @@
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\A Carlos\Desktop\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Clase abstractas.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Clase abstractas.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Usuario\Desktop\TP-03\Castro.Carlos.2°A.TP3\Archivos\obj\Debug\Archivos.pdb
