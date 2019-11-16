@@ -20,7 +20,7 @@ namespace Archivos
             catch (ArchivosException e)
             {
 
-                throw e.InnerException;
+                throw e;
             }
         }
 
@@ -36,7 +36,7 @@ namespace Archivos
             catch (ArchivosException e)
             {
 
-                throw e.InnerException;
+                throw e;
             }
         }
     }
