@@ -21,7 +21,11 @@ namespace MainCorreo
             this.Text = "Correo UTN por Carlos.Castro.2°A";
             this.FormBorderStyle = FormBorderStyle.FixedDialog;
         }
-
+        /// <summary>
+        /// Agrega un paquete a la lista, y se le añade un manejador de evento
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Paquete paquete = new Paquete(this.txtDireccion.Text, this.mtxtTrackingID.Text);
@@ -39,11 +43,20 @@ namespace MainCorreo
                 this.ActualizarEstado();
             }
         }
-
+        /// <summary>
+        /// Al cerrarse el from se ejecutara el metodo FinEntregas
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FrmPpal_FormClosing(object sender, FormClosedEventArgs e)
         {
             correo.FinEntregas();
         }
+        /// <summary>
+        /// Es invocado por el InformaEstado, cambia el estado del paquete y actualiza la lista
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void paq_InformaEstado(object sender, EventArgs e)
         {
             if (this.InvokeRequired)
@@ -67,7 +80,9 @@ namespace MainCorreo
                 this.ActualizarEstado();
             }
         }
-
+        /// <summary>
+        /// actualiza la lista
+        /// </summary>
         private void ActualizarEstado()
         {
 
@@ -94,18 +109,34 @@ namespace MainCorreo
                 }
             }
         }
+        /// <summary>
+        /// metodo generico que guarda a elemento como un archivo .txt
+        /// Escribira en el rtbMostrar
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="elemento"></param>
         private void MostrarInformacion<T>(IMostrar<T> elemento)
         {
             if ((object)elemento != null)
-                this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
-              this.rtbMostrar.Text.Guardar("salida.txt");
+            {
+                this.rtbMostrar.Text = elemento.ToString();
+                this.rtbMostrar.Text.Guardar("salida.txt");
+            }
         }
-            
+        /// <summary>
+        /// Guarda todos los elementos de todas la listas
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnMostrarTodos_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
-
+        /// <summary>
+        /// Guarda un elemento especifico de la lista entregado
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);

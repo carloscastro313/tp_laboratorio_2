@@ -48,7 +48,9 @@ namespace Entidades
             this.direccionEntrega = direccionEntrega;
             this.estado = EEstado.Ingresado;
         }
-
+        /// <summary>
+        /// Metodo que duerme por 4 segundo a Thread para despues cambiar el estado del paquete y llama al evento InformaEstado
+        /// </summary>
         public void MockCicloDeVida()
         {
             do
@@ -67,7 +69,11 @@ namespace Entidades
             {
             }
         }
-
+        /// <summary>
+        /// Metodo que devuelve la informacion del paquete en string
+        /// </summary>
+        /// <param name="elemento"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
             Paquete paquete = (Paquete)elemento;

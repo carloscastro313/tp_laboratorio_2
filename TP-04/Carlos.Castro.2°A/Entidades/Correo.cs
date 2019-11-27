@@ -24,6 +24,11 @@ namespace Entidades
             this.paquetes = new List<Paquete>();
 
         }
+        /// <summary>
+        /// Mostras la informacion en string de todos los paquetes de la lista paquetes
+        /// </summary>
+        /// <param name="elementos"></param>
+        /// <returns></returns>
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
             List<Paquete> paquetes = ((Correo)elementos).paquetes;
@@ -52,7 +57,9 @@ namespace Entidades
 
             return c;
         }
-
+        /// <summary>
+        /// Abortara todos los hilos de la lista mockPaquetes
+        /// </summary>
         public void FinEntregas()
         {
             foreach (Thread item in this.mockPaquetes)
