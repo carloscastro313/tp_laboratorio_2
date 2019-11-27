@@ -24,7 +24,7 @@ namespace MainCorreo
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            Paquete paquete = new Paquete(this.mtxtTrackingID.Text, this.txtDireccion.Text);
+            Paquete paquete = new Paquete(this.txtDireccion.Text, this.mtxtTrackingID.Text);
             paquete.InformaEstado += new Paquete.DelegadoEstado(this.paq_InformaEstado);
             try
             {
@@ -52,6 +52,18 @@ namespace MainCorreo
                 this.Invoke(d, new object[] { sender, e });
             } else
             {
+                if(((Paquete)sender).Estado==Paquete.EEstado.Entregado)
+                {
+                    try
+                    {
+                        PaqueteDAO.Insertar(((Paquete)sender));
+                    }
+                    catch (Exception ex)
+                    {
+
+                        MessageBox.Show("Error al ingresar a la base de datos: "+ex.Message);
+                    }
+                }
                 this.ActualizarEstado();
             }
         }

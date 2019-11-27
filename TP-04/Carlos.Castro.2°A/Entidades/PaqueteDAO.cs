@@ -10,22 +10,22 @@ namespace Entidades
 {
     public static class PaqueteDAO
     {
-        private static SqlConnection conexion = new SqlConnection(Properties.Settings.Default.Conexion);
-        private static SqlCommand comando = new SqlCommand();
+        private static SqlConnection _conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+        private static SqlCommand _comando = new SqlCommand();
 
         static PaqueteDAO()
         {
-            PaqueteDAO.comando.CommandType = CommandType.Text;
-            PaqueteDAO.comando.Connection = PaqueteDAO.conexion;
+            PaqueteDAO._comando.CommandType = CommandType.Text;
+            PaqueteDAO._comando.Connection = PaqueteDAO._conexion;
         }
         
         public static bool Insertar(Paquete p)
         {
             try
             {
-                PaqueteDAO.comando.CommandText = "INSERT INTO Paquetes (direccionEntrega,trackingID,alumno) VALUES("+"'"+p.DireccionEntrega+"','"+p.DireccionEntrega+"','Carlos Castro)";
-                PaqueteDAO.conexion.Open();
-                PaqueteDAO.comando.ExecuteNonQuery();
+                PaqueteDAO._comando.CommandText = String.Format("INSERT INTO[correo-sp-2017].[dbo].[Paquetes]([direccionEntrega],[trackingID],[alumno]) VALUES('{0}','{1}','Carlos Castro')", p.DireccionEntrega, p.TrackingID);
+                PaqueteDAO._conexion.Open();
+                PaqueteDAO._comando.ExecuteNonQuery();
 
             }
             catch (Exception e)
@@ -34,9 +34,9 @@ namespace Entidades
                 
             }finally
             {
-                if(PaqueteDAO.conexion.State==ConnectionState.Open)
+                if(PaqueteDAO._conexion.State==ConnectionState.Open)
                 {
-                    PaqueteDAO.conexion.Close();
+                    PaqueteDAO._conexion.Close();
                 }
             }
             return true;
