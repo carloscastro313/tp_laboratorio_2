@@ -65,18 +65,7 @@ namespace MainCorreo
                 this.Invoke(d, new object[] { sender, e });
             } else
             {
-                if(((Paquete)sender).Estado==Paquete.EEstado.Entregado)
-                {
-                    try
-                    {
-                        PaqueteDAO.Insertar(((Paquete)sender));
-                    }
-                    catch (Exception ex)
-                    {
-
-                        MessageBox.Show("Error al ingresar a la base de datos: "+ex.Message);
-                    }
-                }
+                
                 this.ActualizarEstado();
             }
         }
@@ -119,7 +108,7 @@ namespace MainCorreo
         {
             if ((object)elemento != null)
             {
-                this.rtbMostrar.Text = elemento.ToString();
+                this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
                 this.rtbMostrar.Text.Guardar("salida.txt");
             }
         }

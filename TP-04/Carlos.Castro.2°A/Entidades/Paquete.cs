@@ -60,7 +60,7 @@ namespace Entidades
                 this.InformaEstado((object)this, new EventArgs());
 
             } while (this.estado != EEstado.Entregado);
-            
+
             try
             {
                 PaqueteDAO.Insertar(this);
