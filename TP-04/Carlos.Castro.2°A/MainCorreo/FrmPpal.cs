@@ -18,8 +18,6 @@ namespace MainCorreo
         {
             InitializeComponent();
             correo = new Correo();
-            this.Text = "Correo UTN por Carlos.Castro.2°A";
-            this.FormBorderStyle = FormBorderStyle.FixedDialog;
         }
         /// <summary>
         /// Agrega un paquete a la lista, y se le añade un manejador de evento
@@ -30,15 +28,16 @@ namespace MainCorreo
         {
             Paquete paquete = new Paquete(this.txtDireccion.Text, this.mtxtTrackingID.Text);
             paquete.InformaEstado += new Paquete.DelegadoEstado(this.paq_InformaEstado);
+
             try
             {
                 correo += paquete;
             }
             catch (TrackingIdRepetidoException ex)
             {
-
                 MessageBox.Show(ex.Message);
-            } finally
+            }
+            finally
             {
                 this.ActualizarEstado();
             }
@@ -65,7 +64,6 @@ namespace MainCorreo
                 this.Invoke(d, new object[] { sender, e });
             } else
             {
-                
                 this.ActualizarEstado();
             }
         }
@@ -74,24 +72,22 @@ namespace MainCorreo
         /// </summary>
         private void ActualizarEstado()
         {
-
             this.lstEstadoIngresdo.Items.Clear();
             this.lstEstadoEnViaje.Items.Clear();
             this.lstEstadoEntregado.Items.Clear();
 
             foreach (Paquete item in correo.Paquetes)
             {
-
                 switch (item.Estado)
                 {
                     case Paquete.EEstado.Ingresado:
-                        this.lstEstadoIngresdo.Items.Add((object)item);
+                        this.lstEstadoIngresdo.Items.Add(item);
                         break;
                     case Paquete.EEstado.EnViaje:
-                        this.lstEstadoEnViaje.Items.Add((object)item);
+                        this.lstEstadoEnViaje.Items.Add(item);
                         break;
                     case Paquete.EEstado.Entregado:
-                        this.lstEstadoEntregado.Items.Add((object)item);
+                        this.lstEstadoEntregado.Items.Add(item);
                         break;
                     default:
                         break;
@@ -112,6 +108,7 @@ namespace MainCorreo
                 this.rtbMostrar.Text.Guardar("salida.txt");
             }
         }
+
         /// <summary>
         /// Guarda todos los elementos de todas la listas
         /// </summary>
@@ -121,6 +118,7 @@ namespace MainCorreo
         {
             this.MostrarInformacion<List<Paquete>>((IMostrar<List<Paquete>>)correo);
         }
+
         /// <summary>
         /// Guarda un elemento especifico de la lista entregado
         /// </summary>
@@ -129,7 +127,6 @@ namespace MainCorreo
         private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
-
         }
     }
 }

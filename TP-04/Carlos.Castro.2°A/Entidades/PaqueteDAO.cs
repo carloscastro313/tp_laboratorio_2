@@ -10,19 +10,26 @@ namespace Entidades
 {
     public static class PaqueteDAO
     {
-        private static SqlConnection _conexion = new SqlConnection(Properties.Settings.Default.Conexion);
-        private static SqlCommand _comando = new SqlCommand();
-
+        private static SqlConnection _conexion;
+        private static SqlCommand _comando;
+        #region Constructores
+        /// <summary>
+        /// Construtor estatico que Incializa _conexion y _comando
+        /// </summary>
         static PaqueteDAO()
         {
-            PaqueteDAO._comando.CommandType = CommandType.Text;
-            PaqueteDAO._comando.Connection = PaqueteDAO._conexion;
+            _conexion = new SqlConnection(Properties.Settings.Default.Conexion);
+            _comando = new SqlCommand();
         }
+        #endregion
+
         /// <summary>
         /// Ingresa datos a la tabla Pequetes de la base de datos correo-sp-2017
         /// ATENCION = Se debe agregar una Conexion en las propiedades de Entidades para que esto funcione
         /// </summary>
-        /// <param name="p"></param>
+        /// <param name="p">
+        /// Paquete que se va a ingresar a la base de datos
+        /// </param>
         /// <returns>
         /// TRUE = Cuando hay exito al insertar los datos
         /// FALSE = Error al conectarse a la base de datos
@@ -30,23 +37,26 @@ namespace Entidades
         public static bool Insertar(Paquete p)
         {
             bool retorno = false;
+
+            _comando.CommandType = CommandType.Text;
+            _comando.CommandText = String.Format("INSERT INTO[correo-sp-2017].[dbo].[Paquetes]([direccionEntrega],[trackingID],[alumno]) VALUES('{0}','{1}','Carlos Castro')", p.DireccionEntrega, p.TrackingID);
+            _comando.Connection = _conexion;
+
             try
             {
-                PaqueteDAO._comando.CommandText = String.Format("INSERT INTO[correo-sp-2017].[dbo].[Paquetes]([direccionEntrega],[trackingID],[alumno]) VALUES('{0}','{1}','Carlos Castro')", p.DireccionEntrega, p.TrackingID);
-                PaqueteDAO._conexion.Open();
-                PaqueteDAO._comando.ExecuteNonQuery();
+                _conexion.Open();
+                _comando.ExecuteNonQuery();
                 retorno = true;
-
             }
             catch (Exception e)
             {
                 throw e;
-                
-            }finally
+            }
+            finally
             {
-                if(PaqueteDAO._conexion.State==ConnectionState.Open)
+                if(_conexion.State==ConnectionState.Open)
                 {
-                    PaqueteDAO._conexion.Close();
+                    _conexion.Close();
                 }
             }
             return retorno;

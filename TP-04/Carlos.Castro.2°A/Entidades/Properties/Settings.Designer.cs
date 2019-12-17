@@ -26,8 +26,8 @@ namespace Entidades.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\CARLOSPC;Initial Catalog=correo-sp-2017;Integrated Security" +
-            "=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-TR5JSMM;Initial Catalog=correo-sp-2017;Integrated Security=Tr" +
+            "ue")]
         public string Conexion {
             get {
                 return ((string)(this["Conexion"]));

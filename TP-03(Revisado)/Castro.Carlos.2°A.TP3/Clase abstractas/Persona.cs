@@ -21,14 +21,21 @@ namespace EntidadesAbstractas
         #endregion
 
         #region Propiedades
+
         /// <summary>
         /// get= retornara un apellido.
         /// set= le dara un valor a apellido.
         /// </summary>
         public string Apellido
         {
-            get { return this.apellido; }
-            set { this.apellido = value; }
+            get
+            {
+                return this.apellido;
+            }
+            set
+            {
+                this.apellido = value;
+            }
         }
 
         /// <summary>
@@ -37,7 +44,9 @@ namespace EntidadesAbstractas
         /// </summary>
         public int DNI
         {
-            get { return this.dni; }
+            get {
+                return this.dni;
+            }
             set {
                     try
                     {
@@ -58,13 +67,29 @@ namespace EntidadesAbstractas
         /// </summary>
         public ENacionalidad Nacionalidad
         {
-            get { return this.nacionalidad; }
-            set { this.nacionalidad = value; }
+            get
+            {
+                return this.nacionalidad;
+            }
+            set
+            {
+                this.nacionalidad = value;
+            }
         }
+
+        /// <summary>
+        /// Propiedad que retorna y le da un valor a nombre
+        /// </summary>
         public string Nombre
         {
-            get { return this.nombre; }
-            set { this.nombre = value; }
+            get
+            {
+                return this.nombre;
+            }
+            set
+            {
+                this.nombre = value;
+            }
         }
 
         /// <summary>
@@ -90,6 +115,7 @@ namespace EntidadesAbstractas
         #endregion
 
         #region construtores
+
         /// <summary>
         /// Constructores instanciados
         /// 1_El constructor sin parametros llamara al constructor parametrizado asi se cumple
@@ -98,7 +124,6 @@ namespace EntidadesAbstractas
         /// </summary>
         public Persona() : this("VACIO", "ALUMNO", ENacionalidad.Argentino)
         {
-
         }
         public Persona(string nombre, string apellido, ENacionalidad nacionalidad)
         {
@@ -117,6 +142,7 @@ namespace EntidadesAbstractas
         #endregion
 
         #region metodos
+
         /// <summary>
         /// Sobrecarga que devuelve la informacion de persona
         /// </summary>

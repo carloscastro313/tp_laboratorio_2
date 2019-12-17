@@ -10,10 +10,10 @@ namespace Entidades
     public static class GuardaString
     {
         /// <summary>
-        /// Pasa el texto a archivo .txt
+        /// Metodo extendido de la clase string
         /// </summary>
-        /// <param name="texto"></param>
-        /// <param name="archivo"></param>
+        /// <param name="texto"> Lo que se quiere Guardar </param>
+        /// <param name="archivo">PATH donde se va a guardar</param>
         /// <returns>
         /// TRUE = Cuando se guardo con exito
         /// FALSE = Cuando ocurrio un error

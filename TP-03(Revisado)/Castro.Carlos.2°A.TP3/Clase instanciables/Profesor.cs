@@ -31,17 +31,16 @@ namespace Clases_instanciables
         /// </summary>
         public Profesor() : base(0, "VACIO", "ALUMNO", "0", ENacionalidad.Argentino)
         {
-
         }
         public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id, nombre, apellido, dni, nacionalidad)
         {
             this.clasesDelDia = new Queue<Universidad.EClases>();
             this._randomClases();
         }
-
         #endregion
 
         #region metodos
+
         /// <summary>
         /// Genera valores aleatorios de tipo EClases para el atributo clasesDelDia.
         /// </summary>
@@ -50,10 +49,10 @@ namespace Clases_instanciables
             this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(4));
             this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(4));
         }
-
         #endregion
 
         #region Sobrecargas
+
         /// <summary>
         /// Retorna Informacion del la clase base y las clases que participa.
         /// </summary>
@@ -67,6 +66,7 @@ namespace Clases_instanciables
 
             return aux.ToString();
         }
+
         /// <summary>
         /// Retorna las clases que participa el profesor.
         /// </summary>
@@ -115,6 +115,7 @@ namespace Clases_instanciables
             }
             return false;
         }
+
         /// <summary>
         /// Operador que compara las clases que participa el profesor(i) y el parametro clase.
         /// </summary>

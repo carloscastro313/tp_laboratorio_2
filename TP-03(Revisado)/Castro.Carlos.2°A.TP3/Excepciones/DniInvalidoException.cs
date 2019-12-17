@@ -6,10 +6,7 @@ namespace Excepciones
 {
     public class DniInvalidoException : Exception
     {
-        protected static string mensajeBase = "La nacionalidad no se coincide con el numero de DNI";
-
-        #region construtores
-        public DniInvalidoException() : base(DniInvalidoException.mensajeBase)
+        public DniInvalidoException() : base("La nacionalidad no se coincide con el numero de DNI")
         {
 
         }
@@ -19,7 +16,7 @@ namespace Excepciones
 
         }
 
-        public DniInvalidoException(Exception e) : this(DniInvalidoException.mensajeBase, e)
+        public DniInvalidoException(Exception e) : this("La nacionalidad no se coincide con el numero de DNI", e)
         {
 
         }
@@ -28,7 +25,5 @@ namespace Excepciones
         {
 
         }
-
-        #endregion
     }
 }

@@ -21,8 +21,14 @@ namespace Clases_instanciables
         /// </summary>
         public List<Alumno> Alumnos
         {
-            get { return this.alumnos; }
-            set { this.alumnos = value; }
+            get
+            {
+                return this.alumnos;
+            }
+            set
+            {
+                this.alumnos = value;
+            }
         }
 
         /// <summary>
@@ -31,8 +37,14 @@ namespace Clases_instanciables
         /// </summary>
         public Universidad.EClases Clase
         {
-            get { return this.clase; }
-            set { this.clase = value; }
+            get
+            {
+                return this.clase;
+            }
+            set
+            {
+                this.clase = value;
+            }
         }
 
         /// <summary>
@@ -41,8 +53,14 @@ namespace Clases_instanciables
         /// </summary>
         public Profesor Instrutor
         {
-            get { return this.instructor; }
-            set { this.instructor = value; }
+            get
+            {
+                return this.instructor;
+            }
+            set
+            {
+                this.instructor = value;
+            }
         }
         #endregion
 
@@ -64,6 +82,7 @@ namespace Clases_instanciables
         #endregion
 
         #region metodos
+
         /// <summary>
         /// Guarda en un archivo .txt los datos de clase jornada.
         /// True: en caso de tener exito.
@@ -141,6 +160,7 @@ namespace Clases_instanciables
 
             return false;
         }
+
         /// <summary>
         /// Operado que compara los alumnos de la clase Jornada y una clase Alumno.
         /// </summary>

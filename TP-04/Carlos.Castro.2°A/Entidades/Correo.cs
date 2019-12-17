@@ -12,18 +12,38 @@ namespace Entidades
         private List<Thread> mockPaquetes;
         private List<Paquete> paquetes;
 
+        #region Propiedades 
+        
+        /// <summary>
+        /// Propiedad que devuelve y da valor a la lista de paquetes
+        /// </summary>
         public List<Paquete> Paquetes
         {
-            get { return this.paquetes; }
-            set { this.paquetes = value; }
+            get
+            {
+                return this.paquetes;
+            }
+            set
+            {
+                this.paquetes = value;
+            }
         }
+        #endregion
 
+        #region Constructores
+
+        /// <summary>
+        /// Constructor que inicializan la list de mockPaquetes y paquetes
+        /// </summary>
         public Correo()
         {
             this.mockPaquetes = new List<Thread>();
             this.paquetes = new List<Paquete>();
-
         }
+        #endregion
+
+        #region Metodos
+
         /// <summary>
         /// Mostras la informacion en string de todos los paquetes de la lista paquetes
         /// </summary>
@@ -35,18 +55,43 @@ namespace Entidades
             StringBuilder aux=new StringBuilder();
             foreach (Paquete p in paquetes)
             {
-                aux.AppendLine(string.Format("{0} para {1} ({2})", (object)p.TrackingID, (object)p.DireccionEntrega, (object)p.Estado.ToString()));
+                aux.AppendLine(string.Format("{0} ({1})", p.ToString(), p.Estado));
             }
-                return aux.ToString();
+            return aux.ToString();
         }
-            
+
+        /// <summary>
+        /// Abortara todos los hilos de la lista mockPaquetes
+        /// </summary>
+        public void FinEntregas()
+        {
+            foreach (Thread item in this.mockPaquetes)
+            {
+                if (item.IsAlive)
+                {
+                    item.Abort();
+                }
+            }
+        }
+        #endregion
+
+        #region Operadores
+
+        /// <summary>
+        /// Operador que añade un paquete a la lista paquetes
+        /// </summary>
+        /// <param name="c">Instancia Correo</param>
+        /// <param name="p">Paquete que se quiere añadir</param>
+        /// <returns>
+        /// Dependiendo si "p" se encuentra en la lista, va a devolver una correo con un paquete añadido(o no)
+        /// </returns>
         public static Correo operator +(Correo c, Paquete p)
         {
-            foreach (Paquete item in c.paquetes)
+            foreach (Paquete paquete in c.paquetes)
             {
-                if (p == item)
+                if (p == paquete)
                 {
-                    TrackingIdRepetidoException ex = new TrackingIdRepetidoException(string.Format("Id{0} ya ingresada",(object)item.TrackingID));
+                    TrackingIdRepetidoException ex = new TrackingIdRepetidoException(string.Format("Id{0} ya ingresada",paquete.TrackingID));
                     throw ex;
                 }
             }
@@ -57,18 +102,6 @@ namespace Entidades
 
             return c;
         }
-        /// <summary>
-        /// Abortara todos los hilos de la lista mockPaquetes
-        /// </summary>
-        public void FinEntregas()
-        {
-            foreach (Thread item in this.mockPaquetes)
-            {
-                if(item.IsAlive)
-                {
-                    item.Abort();
-                }
-            }
-        }
+        #endregion
     }
 }

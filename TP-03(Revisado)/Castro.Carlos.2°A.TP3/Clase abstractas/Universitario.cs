@@ -11,14 +11,16 @@ namespace EntidadesAbstractas
         #endregion
 
         #region constructores
+
         /// <summary>
         /// Constructores instanciados
         /// 1_El constructor sin parametros llamara al constructor parametrizado asi se cumple
         /// las condicion del TP de que ninguna clase debe ser null
         /// 2_Los constructores parametrizados uno va a llamar a otro y para este otro llame al base "Persona"
         /// </summary>
-        public Universitario() : this(0, "VACIO", "ALUMNO", "0", ENacionalidad.Argentino) { }
-
+        public Universitario() : this(0, "VACIO", "ALUMNO", "0", ENacionalidad.Argentino)
+        {
+        }
         public Universitario(int legajo, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(nombre, apellido, dni, nacionalidad)
         {
             this.legajo = legajo;
@@ -26,11 +28,13 @@ namespace EntidadesAbstractas
         #endregion
 
         #region metodos
+
         /// <summary>
         /// metodos abstractos de MostrarDatos
         /// </summary>
         /// <returns>string</returns>
         protected abstract string MostrarDatos();
+
         /// <summary>
         /// metodos abstractos de ParticiparEnClase
         /// </summary>

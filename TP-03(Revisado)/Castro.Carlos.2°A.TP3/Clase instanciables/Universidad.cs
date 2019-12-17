@@ -23,14 +23,21 @@ namespace Clases_instanciables
         #endregion
 
         #region propiedades
+
         /// <summary>
         /// get: retorna una lista de alumnos
         /// set: le da una lista de alumnos a atributo alumnos
         /// </summary>
         public List<Alumno> Alumnos
         {
-            get { return this.alumnos; }
-            set { this.alumnos = value; }
+            get
+            {
+                return this.alumnos;
+            }
+            set
+            {
+                this.alumnos = value;
+            }
         }
 
         /// <summary>
@@ -39,8 +46,14 @@ namespace Clases_instanciables
         /// </summary>
         public List<Jornada> Jornadas
         {
-            get { return this.jornada; }
-            set { this.jornada = value; }
+            get
+            {
+                return this.jornada;
+            }
+            set
+            {
+                this.jornada = value;
+            }
         }
 
         /// <summary>
@@ -49,8 +62,14 @@ namespace Clases_instanciables
         /// </summary>
         public List<Profesor> Instructores
         {
-            get { return this.profesores; }
-            set { this.profesores = value; }
+            get
+            {
+                return this.profesores;
+            }
+            set
+            {
+                this.profesores = value;
+            }
         }
 
         /// <summary>
@@ -59,12 +78,19 @@ namespace Clases_instanciables
         /// </summary>
         public Jornada this[int i]
         {
-            get { return this.jornada[i]; }
-            set { this.jornada[i] = value; }
+            get
+            {
+                return this.jornada[i];
+            }
+            set
+            {
+                this.jornada[i] = value;
+            }
         }
         #endregion
 
         #region construtor
+
         /// <summary>
         /// Constructor publico instanciado que inicializa las listas de la clase universidad
         /// </summary>
@@ -130,13 +156,11 @@ namespace Clases_instanciables
         /// <returns>retorna el metodo MostrarDatos</returns>
         public override string ToString()
         {
-
             return Universidad.MostrarDatos(this);
         }
 
         /// <summary>
         /// Operador que compara si se encuentra una alumno en las lista alumnos de la instancia universidad.
-
         /// </summary>
         /// <param name="g"></param>
         /// <param name="a"></param>
@@ -146,15 +170,13 @@ namespace Clases_instanciables
         /// </returns>
         public static bool operator ==(Universidad g, Alumno a)
         {
-            
             if(!Object.Equals(g,null)&&!object.Equals(a,null))
             {
                 foreach (Alumno item in g.alumnos)
                 {
                     if (item==a)
                     {
-                        throw new AlumnoRepetidoException();
-                        
+                        throw new AlumnoRepetidoException();                
                     }
                 }
             }
@@ -227,6 +249,7 @@ namespace Clases_instanciables
             }
             return null;
         }
+
         /// <summary>
         /// Agrega una jornada a la lista
         /// </summary>
@@ -279,7 +302,6 @@ namespace Clases_instanciables
 
             return u;
         }
-
         #endregion
     }
 }
